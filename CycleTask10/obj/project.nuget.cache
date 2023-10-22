@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ky8WC30lwli5ZUbe6SY026S3agftBTAe11DeU44Pk3iDEHTHrSofo4WnzVu4waaMBub40GwscqghXVUh9OcDuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home\\Desktop\\Task\\CycleTask10\\CycleTask10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

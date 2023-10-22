@@ -1,0 +1,14 @@
+E:\Task\Task8\bin\Debug\netcoreapp3.1\Task8.exe
+E:\Task\Task8\bin\Debug\netcoreapp3.1\Task8.deps.json
+E:\Task\Task8\bin\Debug\netcoreapp3.1\Task8.runtimeconfig.json
+E:\Task\Task8\bin\Debug\netcoreapp3.1\Task8.runtimeconfig.dev.json
+E:\Task\Task8\bin\Debug\netcoreapp3.1\Task8.dll
+E:\Task\Task8\bin\Debug\netcoreapp3.1\Task8.pdb
+E:\Task\Task8\obj\Debug\netcoreapp3.1\Task8.csproj.AssemblyReference.cache
+E:\Task\Task8\obj\Debug\netcoreapp3.1\Task8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Task\Task8\obj\Debug\netcoreapp3.1\Task8.AssemblyInfoInputs.cache
+E:\Task\Task8\obj\Debug\netcoreapp3.1\Task8.AssemblyInfo.cs
+E:\Task\Task8\obj\Debug\netcoreapp3.1\Task8.csproj.CoreCompileInputs.cache
+E:\Task\Task8\obj\Debug\netcoreapp3.1\Task8.dll
+E:\Task\Task8\obj\Debug\netcoreapp3.1\Task8.pdb
+E:\Task\Task8\obj\Debug\netcoreapp3.1\Task8.genruntimeconfig.cache

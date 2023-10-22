@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8MbI8pQl2bbpomxTqkpZ+90qjqzug32Z8d9yQDCfb5N3U/tIuO70iOh7kmsMiSsYyLhR0oo9et+dRK8riM1Eyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home\\Desktop\\Task\\Task8\\Task8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

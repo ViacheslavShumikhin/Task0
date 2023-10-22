@@ -1,0 +1,13 @@
+E:\Task\S1.6\bin\Debug\netcoreapp3.1\S1.6..exe
+E:\Task\S1.6\bin\Debug\netcoreapp3.1\S1.6..deps.json
+E:\Task\S1.6\bin\Debug\netcoreapp3.1\S1.6..runtimeconfig.json
+E:\Task\S1.6\bin\Debug\netcoreapp3.1\S1.6..runtimeconfig.dev.json
+E:\Task\S1.6\bin\Debug\netcoreapp3.1\S1.6..dll
+E:\Task\S1.6\bin\Debug\netcoreapp3.1\S1.6..pdb
+E:\Task\S1.6\obj\Debug\netcoreapp3.1\S1.6..GeneratedMSBuildEditorConfig.editorconfig
+E:\Task\S1.6\obj\Debug\netcoreapp3.1\S1.6..AssemblyInfoInputs.cache
+E:\Task\S1.6\obj\Debug\netcoreapp3.1\S1.6..AssemblyInfo.cs
+E:\Task\S1.6\obj\Debug\netcoreapp3.1\S1.6..csproj.CoreCompileInputs.cache
+E:\Task\S1.6\obj\Debug\netcoreapp3.1\S1.6..dll
+E:\Task\S1.6\obj\Debug\netcoreapp3.1\S1.6..pdb
+E:\Task\S1.6\obj\Debug\netcoreapp3.1\S1.6..genruntimeconfig.cache

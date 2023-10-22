@@ -1,0 +1,13 @@
+I:\Task\Task21\bin\Debug\netcoreapp3.1\Task21.exe
+I:\Task\Task21\bin\Debug\netcoreapp3.1\Task21.deps.json
+I:\Task\Task21\bin\Debug\netcoreapp3.1\Task21.runtimeconfig.json
+I:\Task\Task21\bin\Debug\netcoreapp3.1\Task21.runtimeconfig.dev.json
+I:\Task\Task21\bin\Debug\netcoreapp3.1\Task21.dll
+I:\Task\Task21\bin\Debug\netcoreapp3.1\Task21.pdb
+I:\Task\Task21\obj\Debug\netcoreapp3.1\Task21.GeneratedMSBuildEditorConfig.editorconfig
+I:\Task\Task21\obj\Debug\netcoreapp3.1\Task21.AssemblyInfoInputs.cache
+I:\Task\Task21\obj\Debug\netcoreapp3.1\Task21.AssemblyInfo.cs
+I:\Task\Task21\obj\Debug\netcoreapp3.1\Task21.csproj.CoreCompileInputs.cache
+I:\Task\Task21\obj\Debug\netcoreapp3.1\Task21.dll
+I:\Task\Task21\obj\Debug\netcoreapp3.1\Task21.pdb
+I:\Task\Task21\obj\Debug\netcoreapp3.1\Task21.genruntimeconfig.cache

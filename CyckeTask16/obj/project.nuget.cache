@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zq3hEI2D5/Ryppi0jAAnyscBMV9Vjm+0z0/GAjbapx8XqbYeECg9iR7cD5z8hryfthhWD8eENRU4auxSqUarbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home\\Desktop\\Task\\CyckeTask16\\CyckeTask16.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

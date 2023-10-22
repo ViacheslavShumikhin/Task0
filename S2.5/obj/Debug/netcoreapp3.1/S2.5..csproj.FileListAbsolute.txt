@@ -1,0 +1,4 @@
+I:\Task\S2.5\obj\Debug\netcoreapp3.1\S2.5..GeneratedMSBuildEditorConfig.editorconfig
+I:\Task\S2.5\obj\Debug\netcoreapp3.1\S2.5..AssemblyInfoInputs.cache
+I:\Task\S2.5\obj\Debug\netcoreapp3.1\S2.5..AssemblyInfo.cs
+I:\Task\S2.5\obj\Debug\netcoreapp3.1\S2.5..csproj.CoreCompileInputs.cache

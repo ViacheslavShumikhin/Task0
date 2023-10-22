@@ -1,0 +1,14 @@
+F:\Task\CycleTask29\bin\Debug\netcoreapp3.1\CycleTask29.exe
+F:\Task\CycleTask29\bin\Debug\netcoreapp3.1\CycleTask29.deps.json
+F:\Task\CycleTask29\bin\Debug\netcoreapp3.1\CycleTask29.runtimeconfig.json
+F:\Task\CycleTask29\bin\Debug\netcoreapp3.1\CycleTask29.runtimeconfig.dev.json
+F:\Task\CycleTask29\bin\Debug\netcoreapp3.1\CycleTask29.dll
+F:\Task\CycleTask29\bin\Debug\netcoreapp3.1\CycleTask29.pdb
+F:\Task\CycleTask29\obj\Debug\netcoreapp3.1\CycleTask29.csproj.AssemblyReference.cache
+F:\Task\CycleTask29\obj\Debug\netcoreapp3.1\CycleTask29.GeneratedMSBuildEditorConfig.editorconfig
+F:\Task\CycleTask29\obj\Debug\netcoreapp3.1\CycleTask29.AssemblyInfoInputs.cache
+F:\Task\CycleTask29\obj\Debug\netcoreapp3.1\CycleTask29.AssemblyInfo.cs
+F:\Task\CycleTask29\obj\Debug\netcoreapp3.1\CycleTask29.csproj.CoreCompileInputs.cache
+F:\Task\CycleTask29\obj\Debug\netcoreapp3.1\CycleTask29.dll
+F:\Task\CycleTask29\obj\Debug\netcoreapp3.1\CycleTask29.pdb
+F:\Task\CycleTask29\obj\Debug\netcoreapp3.1\CycleTask29.genruntimeconfig.cache
